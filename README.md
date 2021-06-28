@@ -1,7 +1,7 @@
 Welcome to my first python project.
 ---
 
-This is real time translator that allowed you speek one language and would tranlate to text also split the sentense(Speech to Text). Then program would show another language by tranlating also read the sentense(T). And, save the mp3 file on your assigned path.
+This is real-time translator that allowed you speek one language and would tranlate to text also split the sentense(Speech to Text). Then program would show another language by tranlating also read the sentense(T). And, save the mp3 file on your assigned path.
 
 #### Available language:
 
@@ -30,3 +30,10 @@ Instead you can use `pipwin`
 
 	pip install pipwin
 	pipwin install pyaudio
+
+execute program:
+
+![](https://i.imgur.com/34sHa6S.png)
+
+
+After program shows say something! Then you can speek.
