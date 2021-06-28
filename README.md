@@ -1,7 +1,7 @@
 Welcome to my first python project.
 ---
 
-This is real-time translator that allowed you speek one language and would tranlate to text also split the sentense(Speech to Text). Then program would show another language by tranlating also read the sentense(T). And, save the mp3 file on your assigned path.
+This is a real-time translator that allowed you speek one language and would tranlate to text also split the sentense(Speech to Text). Then program would show another language by tranlating also read the sentense(T). And, save the mp3 file on your assigned path.
 
 #### Available language:
 
