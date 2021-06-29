@@ -16,7 +16,7 @@ This project is uploaded by Pycharm including script and library.
 
 #### Python version is 3.9.4
 
-All the package you need to install:
+All modules you need to install:
 
 	pip install jieba
 	pip install translate
